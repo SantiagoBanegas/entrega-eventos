@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+
+
+.efecto{
+    background-color: green;
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    border-bottom: 10px;
+}
+
+
+.efecto2{
+    background-color: darkblue;
+    color: antiquewhite;
+    text-align: center;
+    font-family: fantasy;
+    border-radius: 5px;
+}
+
+
+.efecto3{
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    border-radius: 5px;
+}
+
